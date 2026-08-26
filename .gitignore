@@ -1,0 +1,9 @@
+# Personal material
+applications/
+notes/
+refs/
+
+# Scratch
+.DS_Store
+*.tmp
+scratch/
